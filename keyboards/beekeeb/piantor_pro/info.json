@@ -7,9 +7,8 @@
     "features": {
         "bootmagic": true,
         "command": false,
-        "console": false,
+        "console": true,
         "extrakey": true,
-        "mousekey": true,
         "nkro": true
     },
     "matrix_pins": {
